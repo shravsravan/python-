@@ -1,0 +1,5 @@
+# This is a comment 
+answer = 42 # the answer
+
+text = "# si this a comment"
+print(text)
