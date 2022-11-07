@@ -11,3 +11,5 @@ Day3: Basic arithmetic
 Day4: Comments and Strings
 
 Day5: Indexing and concatenation
+
+Day6: List Indexing
