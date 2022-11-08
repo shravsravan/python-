@@ -13,3 +13,5 @@ Day4: Comments and Strings
 Day5: Indexing and concatenation
 
 Day6: List Indexing
+
+Day7: Slicing
