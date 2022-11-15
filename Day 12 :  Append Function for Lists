@@ -1,0 +1,3 @@
+cubes = [1, 8, 27]
+cubes.append(4 ** 3)
+print(cubes)
