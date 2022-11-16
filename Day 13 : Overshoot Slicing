@@ -1,0 +1,2 @@
+word = "galaxy"
+print(word[4:50])
