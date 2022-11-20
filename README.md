@@ -26,4 +26,6 @@ Day 11 : Sum and Range Functions
 
 Day 12 :  Append Function for Lists
 
+Day 13 : Overshoot Slicing
+
 Day 14 : Branching
